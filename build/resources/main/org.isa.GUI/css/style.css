@@ -1,0 +1,4 @@
+.root {
+    -fx-background-image: url('../img/valise.png');
+    -fx-background-size: 100%, 100%;
+}
